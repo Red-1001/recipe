@@ -1,4 +1,3 @@
 # recipe
-for ds toolbox assignment3
-Dish name: Pan-fried honey-soy sauce raddish
-This is the recipe for one of my favorite dish, and this file/repository id for UBC extended learning ds toolbox
+Dish name: Pan-fried honey-soy sauce radish
+This repository contains recipe for a radish dish, and is used for UBC extended learning ds toolbox
