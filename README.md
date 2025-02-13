@@ -6,6 +6,7 @@
 3. Sesame spinach
 4. Miso soup
 
-- Preparing Time : 2 hours
-- Expense: 20 CAD/person
-- Meal type: Dinner 
+- Preparing Time : **2 hours**
+- Expense: **20 CAD/person**
+- Meal type: **Dinner**
+
